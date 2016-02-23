@@ -4,5 +4,5 @@
 * [First Chapter](chapter1.md)
 * [Політичні режими](poltichn_rezhimi.md)
    * [Тоталітарний політичний режим](totaltarnii_poltichnii_rezhim.md)
-   * Демократичний політичний режим
+   * [Демократичний політичний режим](demokratichnii_poltichnii_rezhim.md)
 
