@@ -5,4 +5,5 @@
 * [Політичні режими](poltichn_rezhimi.md)
    * [Тоталітарний політичний режим](totaltarnii_poltichnii_rezhim.md)
    * [Демократичний політичний режим](demokratichnii_poltichnii_rezhim.md)
+   * Авторитарний політичний режим
 
