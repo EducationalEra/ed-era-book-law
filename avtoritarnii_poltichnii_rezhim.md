@@ -7,7 +7,7 @@
 осіб.       
 <div class="space">
 <div class="center">
-<img src="1/713222216_147446_17399878748647165251.psd" width="400px" class="center"/>
+<img src="1/33.jpg" width="400px" class="center"/>
 <p><i>Рисунок 2.1.1:  Сталін у Батумі</i></p>
 </div>
 </div>
