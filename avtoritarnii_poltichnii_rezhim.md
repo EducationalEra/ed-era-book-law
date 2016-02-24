@@ -8,7 +8,7 @@
 <div class="space">
 <div class="center">
 <img src="1/33.jpg" width="400px" class="center"/>
-<p><i>Рисунок 2.1.1:  Сталін у Батумі</i></p>
+<p><i></i></p>
 </div>
 </div>
 Характерними особливостями авторитарного режиму є наступні:         
