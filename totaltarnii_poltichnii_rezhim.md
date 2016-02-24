@@ -10,7 +10,7 @@
 розпускати органи влади в своїх інтересах, і був непідвладним народу та праву.   
 <div class="space">
 <div class="center">
-<img src="../1/Stalin_Museum_Batumi.jpg" width="400px" class="center"/>
+<img src="1/Stalin_Museum_Batumi.jpg" width="400px" class="center"/>
 <p><i>Рисунок 2.1.1:  Сталін у Батумі</i></p>
 </div>
 </div>
