@@ -7,6 +7,9 @@
 <div class="space">
 <div class="center">
 <img src="1/1-12_Political_Color_Map_World.png" width="400px" class="center"/>
+<p><i>Політична карта світу</i></p>
+</div>
+</div>
 <div class="space"> 
 По-перше, <span class="p1">держава – це форма організації
 суспільства</span>. Вона не лише керує суспільством, але й сама залежить від нього та від усіх
