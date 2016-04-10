@@ -1,7 +1,7 @@
 # Держава
 <div class="space">
 <div class="center">
-<img src="..1/maxresdefault (1).jpg" width="400px" class="center"/>
+<img src="..1/maxresdefault (1).jpg" class="center"/>
 </div>
 </div>
 <div class="space">
