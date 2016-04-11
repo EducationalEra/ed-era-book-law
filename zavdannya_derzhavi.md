@@ -32,6 +32,8 @@
 <div class="space"> 
 Судова гілка влади представлена всіма судами. Призначення судів – здійснювати правосуддя.  
 </div>
+
+    
 <div class="alg-wrap">
 <span class="alg">Запам’ятайте</span>
 <div class="alg-text">
