@@ -31,6 +31,7 @@
 <p>Отже, усі держави світу, незалежно від того, чи вони європейські, чи африканські, все
 ж таки мають схожі ознаки. </p>     
 </div>
+
 <div class="space">
 <div class="center">
 <img src="1/Ukraine_Border.JPG" width="400px" class="center"/>
