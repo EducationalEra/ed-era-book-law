@@ -84,7 +84,7 @@
 <p> </p>    
 <div class="space">
 <div class="center">
-<img src="1/HD1458.jpg" width="400px" class="center"/>
+<img src="1/HD1458.jpg" width="400px"/>
 </div>
 </div>
 <p> </p>
