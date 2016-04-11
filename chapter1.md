@@ -1,8 +1,7 @@
 # Держава
-<div class="space">
+
 <div class="center">
 <img src="..1/maxresdefault (1).jpg" class="center"/>
-</div>
 </div>
 <div class="space">
 Сьогодні ми розпочинаємо курс із правознавства, який допоможе нам дізнатися про
