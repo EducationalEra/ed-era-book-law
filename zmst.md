@@ -6,4 +6,6 @@
    * [Витоки держави](vitoki_derzhavi.md)
    * [Завдання держави](zavdannya_derzhavi.md)
 * [Політичні режими](2/zemlya_na_plani_ta_karti.md)
-  * [Тоталітарний політичний режим](derzhava.md)
+  * [Тоталітарний політичний режим](totaltarnii_poltichnii_rezhim.md)
+  * [Авторитарний політичний режим](totaltarnii_poltichnii_rezhim.md)
+  * [Тоталітарний політичний режим](totaltarnii_poltichnii_rezhim.md)
