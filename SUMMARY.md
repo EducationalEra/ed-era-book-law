@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Зміст](zmst.md)
+* [Основи вчення про державу та право](zmst.md)
 * [Поняття держави та державної влади](chapter1.md)
    * [Держава](derzhava.md)
    * [Витоки держави](vitoki_derzhavi.md)
