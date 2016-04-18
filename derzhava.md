@@ -1,13 +1,12 @@
 # Держава
-<div class="space">       
+
 Якщо ви відкриєте будь-який підручник із правознавства, то знайдете там кілька
 визначень, які можуть відрізнятись одне від одного. Дійсно, дати точне визначення державі
 дуже складно, і на це є різні причини. 
-</div>
 
 <div class="space">
 <div class="center">
-<img src="1/1-12_Political_Color_Map_World.png" width="400px" class="center"/>
+<img src="1/1-12_Political_Color_Map_World.png" width="800px" class="center"/>
 <p><i>Політична карта світу</i></p>
 </div>
 </div>
