@@ -7,7 +7,7 @@
 <div class="space">
 <div class="center">
 <img src="1/Neanderthals_-_Artist's_rendition_of_Earth_approximately_60,000_years_ago.jpg" class="center" width="500px"/>
-<p><i>Первісне стадо неандертальців — людина близько 60 тисяч років тому, художнє зображення</i></p>
+<p><i>Первісне стадо неандертальців<br> (людина близько 60 тисяч років тому, художнє зображення)</i></p>
 </div>
 </div>
 
