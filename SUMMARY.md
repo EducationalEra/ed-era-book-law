@@ -10,5 +10,5 @@
    * [Тоталітарний політичний режим](totaltarnii_poltichnii_rezhim.md)
    * [Авторитарний політичний режим](avtoritarnii_poltichnii_rezhim.md)
    * [Демократичний політичний режим](demokratichnii_poltichnii_rezhim.md)
-* Загальна характеристика права
+* [Загальна характеристика права](zagalna_harakteristika_prava.md)
 
