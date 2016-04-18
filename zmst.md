@@ -8,4 +8,4 @@
 * [Політичні режими](2/zemlya_na_plani_ta_karti.md)
   * [Тоталітарний політичний режим](totaltarnii_poltichnii_rezhim.md)
   * [Авторитарний політичний режим](avtoritarnii_poltichnii_rezhim.md)
-  * [Демократичний політичний режим](totaltarnii_poltichnii_rezhim.md)
+  * [Демократичний політичний режим](demokratichnii_poltichnii_rezhim.md)
