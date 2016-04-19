@@ -12,7 +12,7 @@
   * [Авторитарний політичний режим](avtoritarnii_poltichnii_rezhim.md)
   * [Демократичний політичний режим](demokratichnii_poltichnii_rezhim.md)
 3. [Загальна характеристика права]()
-   *[Поняття та призначення права](zagalna_harakteristika_prava.md) 
+   *[Поняття та призначення права](totaltarnii_poltichnii_rezhim.md) 
    *[Правові системи світу](zagalna_harakteristika_prava.md)
    *[Основні галузі права](zagalna_harakteristika_prava.md)
  
