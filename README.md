@@ -2,7 +2,7 @@
   
   # Зміст
 
-1. [Вступне слово](vstup.md)
+1. [Вступне слово](osnovi_vchennya_pro_derjavu_ta_pravo.md)
 2. [Поняття держави та державної влади](chapter1.md)
    * [Держава](derzhava.md)
    * [Витоки держави](vitoki_derzhavi.md)
