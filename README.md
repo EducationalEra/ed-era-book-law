@@ -17,7 +17,7 @@
    * [Основні галузі права](avtoritarnii_poltichnii_rezhim.md)
  
 4. [Взаємодія держави та людини]()
-    * [Поняття громадянства](zagalna_harakteristika_prava.md)
+    * [Поняття громадянства]()
     * [Відповідальність держави перед громадянином](zagalna_harakteristika_prava.md)
     
 [Проміжний екзамен]()
