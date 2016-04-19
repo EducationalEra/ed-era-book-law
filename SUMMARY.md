@@ -1,7 +1,7 @@
 # Summary
 
 * [Зміст](README.md)
-* Вступне слово
+* [Вступне слово](vstupne_slovo.md)
 * [Основи вчення про державу та право](osnovi_vchennya_pro_derjavu_ta_pravo.md)
 * [Поняття держави та державної влади](chapter1.md)
    * [Держава](derzhava.md)
