@@ -7,7 +7,7 @@
    * [Витоки держави](vitoki_derzhavi.md)
    * [Завдання держави](zavdannya_derzhavi.md)
 * Політичні режими
-   * [Тоталітарний політичний режим](totaltarnii_poltichnii_rezhim.md)
+   * Тоталітарний політичний режим
    * [Авторитарний політичний режим](avtoritarnii_poltichnii_rezhim.md)
    * [Демократичний політичний режим](demokratichnii_poltichnii_rezhim.md)
 * [Загальна характеристика права](zagalna_harakteristika_prava.md)
