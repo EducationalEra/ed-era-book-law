@@ -11,7 +11,7 @@
 <div class="space">
 <div class="center">
 <img src="2/тот.jpg" width="400px" class="center"/>
-<p><i>Сталін</i></p>
+<p><i></i></p>
 </div>
 </div>
 Тоталітаризм є сучасним типом диктатури, в якій особливу роль грає ідеологія. Термін
