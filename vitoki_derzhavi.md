@@ -27,7 +27,7 @@
    <div class="space">
 <div class="center">
 <img src="1/Kheops-Pyramid.jpg" class="center" width="600px"/>
-<p><i>Піраміда Хеопса, Єгипет </i></p>
+<p><i>Піраміда Хеопса, Єгипет. Автор знімку: <span class="p1">Nina Aldin Thune</span></i></p>
 </div>
 </div>
 
