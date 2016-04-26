@@ -29,7 +29,7 @@
 </div>
 <div class="center">
 <img src="1/Government_Building.JPG" width="500px" class="center"/>
-<p><i>Кабінет Міністрів</i></p>
+<p><i>Кабінет Міністрів. Автор знімку:  <span class="p1">Alexander Noskin</span></i></p>
 </div>
 
 
