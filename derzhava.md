@@ -42,12 +42,7 @@
 <p>Отже, усі держави світу, незалежно від того, чи вони європейські, чи африканські, все
 ж таки мають схожі ознаки. </p>     
 
-<div class="space">
-<div class="center">
-<img src="1/Ukraine_Border.JPG" width="400px" class="center"/>
-<p><i>Румунсько-український кордон на автошляху E85. <font size="3">Автор знімку: <span class="p1">Stefan Richter</span></font></i></p>
-</div>
-</div>
+
     <hr>
     
 <center><h5>Ознаки держави:</h5></center>
@@ -64,6 +59,13 @@
 повинно проживати населення. При цьому між населенням та територією виникає зв’язок,
 який ми називаємо громадянством.
 </ul>
+
+<div class="space">
+<div class="center">
+<img src="1/Ukraine_Border.JPG" width="400px" class="center"/>
+<p><i>Румунсько-український кордон на автошляху E85. <font size="3">Автор знімку: <span class="p1">Stefan Richter</span></font></i></p>
+</div>
+</div>
 
 <div class="alg-wrap">
 <span class="alg">Запам’ятайте</span>
