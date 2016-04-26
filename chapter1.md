@@ -2,7 +2,7 @@
 
 <div class="center">
 <img src="1/maxresdefault (1).jpg" class="center" width="500"/>
-<p><i>Піраміда Хеопса, Єгипет. Автор знімку: <span class="p1">UP9</span></i></p>
+<p><i>Автор знімку: <span class="p1">UP9</span></i></p>
 </div>
 
 <div class="space"><br>
