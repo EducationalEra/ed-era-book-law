@@ -102,7 +102,7 @@
 <div class="space">
 <div class="center">
 <img src="1/HD1458.jpg" width="500px"/>
-<p><i>Фото: torange.ru/</i></p>
+<p><i>Фото: torange.ru</i></p>
 </div>
 </div>
 
