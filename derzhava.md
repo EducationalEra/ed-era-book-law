@@ -126,7 +126,7 @@
 <div class="space">
 <div class="center">
 <img src="1/29373-FX-8-0-4-0-0-0.jpg" width="400px" class="center"/>
-<p><i>Конституція України</i></p>
+<p><i>Конституція України. Фото: torange.biz</i></p>
 </div>
 </div>
 
