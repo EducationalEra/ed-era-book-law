@@ -50,7 +50,7 @@
       
 <div class="center">
 <img src="1/Klov_Palace._Listed_ID_80-382-0462._-_8_Pylypa_Orlyka_Street,_Pechersk_Raion,_Kiev._-_Pechersk_28_09_13_396.jpg" width="500px" class="center"/>
-<p><i>Верховний Суд України</i></p>
+<p><i>Верховний Суд України. Автор знімку: <span class="p1">Wadco2</span></i></p>
 </div>
     
 <div class="space"> 
