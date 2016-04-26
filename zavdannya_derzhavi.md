@@ -61,7 +61,7 @@
 <div class="space"> 
 <div class="center">
 <img src="1/Адміністрація_Президента_України,_Адміністрація_Президента.JPG" width="500px" class="center"/>
-<p><i>Адміністрація Президента України</i></p>
+<p><i>Адміністрація Президента України. Автор знімку: <span class="p1">Avaness</span></i></p>
 </div>
 
 <div class="ebio-wrap">
