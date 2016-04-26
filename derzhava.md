@@ -45,7 +45,7 @@
 <div class="space">
 <div class="center">
 <img src="1/Ukraine_Border.JPG" width="400px" class="center"/>
-<p><i>Румунсько-український кордон на автошляху E85. <font size="6">Автор знімку: <span class="p1">Stefan Richter</span></font></i></p>
+<p><i>Румунсько-український кордон на автошляху E85. <font size="3">Автор знімку: <span class="p1">Stefan Richter</span></font></i></p>
 </div>
 </div>
     <hr>
