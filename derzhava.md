@@ -25,7 +25,7 @@
 
 <div class="space">
 <div class="center">
-<img src="1/1-12_Political_Color_Map_World.png" width="800px" class="center"/>
+<img src="1/1-12_Political_Color_Map_World.jpg" width="800px" class="center"/>
 <p><i>Політична карта світу</i></p>
 </div>
 </div>
