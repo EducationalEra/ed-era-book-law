@@ -1,7 +1,7 @@
 {
     "gitbook": ">=3.0.0-pre.11",
     "title": "EdEra Правознавство: Основи вчення про державу та право",
-    "plugins": ["-search", "fontsettings", "-sharing", "addcssjs", "quiz", "mathjax", "disqus", "-gtm", "-ga", "-comments"],
+    "plugins": ["-search", "fontsettings", "-sharing", "addcssjs", "quiz", "mathjax", "disqus", "gtm", "ga", "-comments"],
     "pluginsConfig": {
         "theme-default": {
             "showLevel": true
@@ -21,7 +21,7 @@
             "token": "GTM-N86M5F"
         },
         "ga": {
-            "token": "UA-67450509-4"
+            "token": "UA-67450509-10"
         },
         "quiz": {
             "labels": {
