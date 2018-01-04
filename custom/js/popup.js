@@ -1,7 +1,7 @@
 $( window ).load( function(){
     function init () {
-        $( "div.popup" ).replaceWith( "<div class='description'><div class='text'>Ще більше відеоматеріалів в <a class='knopka1' href='https://study.ed-era.com/courses/EdEra/g102/G102/about' target='_blank'>онлайн-курсі</a> від розробників цієї книги</div><div class='btn-knopka'><a class='knopka' href='https://study.ed-era.com/courses/EdEra/g102/G102/about'   target='_blank'>Перейти на курс</a></div>" );
-        $("div.description").after( "<div class='space'></div>" );
+        $( "div.popup" ).replaceWith( '<div class="banner"><h2 class="course">Онлайн-курс «Європейський механізм захисту прав людини»</h2><p class="course-description">Сестра, ты удивительная девушка! Хочу пожелать тебе побольше позитивных эмоций, внутреннего баланса, здоровья и достижения больших целей!</p><div class="button-wrapper"><a class="registration-button" target="_blank" href="#">Перейти до курсу</a></div></div>');
+	$("div.description").after( "<div class='space'></div>" );
     }
 
     init();

@@ -38,7 +38,8 @@
         }
     },
     "variables": {
-      "basePath": "http://law.ed-era.com/"
+      "basePath": "http://law.ed-era.com/",
+      "course-link": "https://courses.ed-era.com/courses/course-v1:EdEra+LAW101+law101/about"
     },
     "links": {
         "gitbook": false,
