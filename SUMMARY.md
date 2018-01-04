@@ -14,6 +14,8 @@
    * [Державне правління](2/derjavne_pravlinnia.md)
    * [Територіальний устрій](2/terytorialnyj_ustrij.md)
    * [Політичний режим](2/politychnyj_rezhym.md)
+* [Поняття та призначення права](poniattia_ta_pryznachennia_prava.md)
+* [Тлумачення правових норм. Способи тлумачення](3/tlumachennia,sposoby_tlumachennia.md)
 <!--
 
 * [Основи вчення про державу та право](osnovi_vchennya_pro_derjavu_ta_pravo.md)
