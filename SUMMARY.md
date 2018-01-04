@@ -3,7 +3,10 @@
 * [Зміст](README.md)
 * [Вступне слово](vstupne_slovo.md)
 * [Ознаки держави](1/oznaky_derjavy.md)
-   * [Територія](1/tetytiria.md)
+   * [Територія](1/terytoria.md)
+   * [Публічна влада](1/publichna_vlada.md)
+   * [Суверенітет](1/suverenitet.md)
+   * [Грошово-кредитна система](1/groshovo-credytna_systema.md)
 <!--
 
 * [Основи вчення про державу та право](osnovi_vchennya_pro_derjavu_ta_pravo.md)
