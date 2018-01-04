@@ -7,6 +7,13 @@
    * [Публічна влада](1/publichna_vlada.md)
    * [Суверенітет](1/suverenitet.md)
    * [Грошово-кредитна система](1/groshovo-credytna_systema.md)
+   * [Податкова ситема](1/podatkova_systema.md)
+   * [Правові норми](1/pravovi_normy.md)
+* [Сутність держави](sutnist_derjavy.md)
+* [Форма держави](2/forma_derjavy.md)
+   * [Державне правління](2/derjavne_pravlinnia.md)
+   * [Територіальний устрій](2/terytorialnyj_ustrij.md)
+   * [Політичний режим](2/politychnyj_rezhym.md)
 <!--
 
 * [Основи вчення про державу та право](osnovi_vchennya_pro_derjavu_ta_pravo.md)
