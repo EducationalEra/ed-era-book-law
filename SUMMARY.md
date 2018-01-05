@@ -15,9 +15,14 @@
    * [Територіальний устрій](2/terytorialnyj_ustrij.md)
    * [Політичний режим](2/politychnyj_rezhym.md)
 * [Поняття та призначення права](poniattia_ta_pryznachennia_prava.md)
-* [Тлумачення правових норм. Способи тлумачення](3/tlumachennia,sposoby_tlumachennia.md)
-<!--
+* [Тлумачення правових норм. Способи тлумачення](3/tlumachennia_sposoby_tlumachennia.md)
+   * [Філологічний спосіб](3/filologichnyj_sposib.md)
+   * [Логічний спосіб](3/logichnyj_sposib.md)
+   * [Системний спосіб](3/systemnyj_sposib.md)
+   * [Цільовий спосіб](3/ciliovyj_sposib.md)
+* [Основи конценпції прав людини](4/osnovy_koncepcii_prav_liudyny.md)
 
+<!--
 * [Основи вчення про державу та право](osnovi_vchennya_pro_derjavu_ta_pravo.md)
 * [Поняття держави та державної влади](chapter1.md)
    * [Держава](derzhava.md)
