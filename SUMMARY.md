@@ -21,6 +21,7 @@
    * [Системний спосіб](3/systemnyj_sposib.md)
    * [Цільовий спосіб](3/ciliovyj_sposib.md)
 * [Основи конценпції прав людини](4/osnovy_koncepcii_prav_liudyny.md)
+   * [Ознаки прав людини](4/oznaky_prav_liudyny.md)
 
 <!--
 * [Основи вчення про державу та право](osnovi_vchennya_pro_derjavu_ta_pravo.md)
