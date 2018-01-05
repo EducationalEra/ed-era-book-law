@@ -23,6 +23,9 @@
 * [Основи конценпції прав людини](4/osnovy_koncepcii_prav_liudyny.md)
    * [Ознаки прав людини](4/oznaky_prav_liudyny.md)
    * [Види прав людини та їх значення](4/vydy_prav_liudyny_ta_jih_znachennia.md)
+   * [Покоління прав людини](4/pokolinnia_prav_liudyny.md)
+      * [Перше покоління](4/pershe_pokolinnia.md)
+      * [Друге покоління](4/druge_pokolinnia.md)
 <!--
 * [Основи вчення про державу та право](osnovi_vchennya_pro_derjavu_ta_pravo.md)
 * [Поняття держави та державної влади](chapter1.md)
