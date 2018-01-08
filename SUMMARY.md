@@ -28,8 +28,8 @@
       * [Друге покоління](4/druge_pokolinnia.md)
 * [Судовий захист прав людини](5/sydoviy_zahyst_prav_liudyny.md)
 * [Inna Test](InnaTest/vstup.md)
-      * [Ератосфен](InnaTest/Eratosfen.md)
-      * [Амеріґо Веспуччі](InnaTest/Amerigo_Vespuchi.md) 
+   * [Ератосфен](InnaTest/Eratosfen.md)
+   * [Амеріґо Веспуччі](InnaTest/Amerigo_Vespuchi.md) 
 
 < !-
 * [Основи вчення про державу та право](osnovi_vchennya_pro_derjavu_ta_pravo.md)
