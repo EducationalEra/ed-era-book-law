@@ -12,5 +12,4 @@
 <p>На карті світу Птолемей застосував градусну сітку. Птолемеївська геоцентрична система<br />світу, а також математична теорія руху планет навколо нерухомої Землі, була актуальною<br />до 1543 року, коли польський астроном Микола Коперник запропонував альтернативну,<br />геліоцентричну систему. Тобто ця теорія панувала 1500 років.</p>
 </div>	
 <div class="fluidMedia">
-<iframe align="center" width="560" height="315" src="https://www.youtube.com/1THnJoJyPDw" frameborder="0" allowfullscreen></iframe>
-</div>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/1THnJoJyPDw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
