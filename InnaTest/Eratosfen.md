@@ -5,7 +5,7 @@
 <div class="space">
 <div class="center">	
 <img src="../pics/pic1.png" width="480" height="281" class="center"/>
-<p><i> Рисунок 2.1.3. Світ за Ератосфеном</i></p>
+<p><i> Рисунок 2.1.3. Світ за Ератосфеном </i></p>
 </div>
 </div>
 <div class="space">
