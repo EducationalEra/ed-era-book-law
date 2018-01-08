@@ -5,6 +5,6 @@
 </div>
 <div class="space">
 <div class="center">	
-<img src="../pics/maxresdefault.jpg" width="1280" height="720" class="center"/>
+<img src="../pics/maxresdefault.jpg" width="480" height="281" class="center"/>
 </div>
 </div>

@@ -1,15 +1,14 @@
 # Ератосфен
 <div class="space">
 <p>&laquo;Батьком географії&raquo; заслужено називають Ератосфена. Він першим назвав науку про<br />Землю &laquo;географією&raquo;, обчислив коло Землі, визначив її розміри, виділив п &rsquo;ять зон &ndash; жарку,<br />дві помірні й дві холодні &ndash; та описав їхні межі. Ератосфен склав карту світу, розширивши<br />його межі від Греції до островів Цейлон та Ісландія.</p>
-</div>
 <div class="space">
-<div class="center">	
-<img src="../pics/pic1.png" width="480" height="281" class="center"/>
+<div align="center">	
+<img src="../pics/pic1.png" width="560" height="315" class="center"/>
 <p><i> Рисунок 2.1.3. Світ за Ератосфеном </i></p>
-</div>
-</div>
 <div class="space">
 <p>На карті світу Птолемей застосував градусну сітку. Птолемеївська геоцентрична система<br />світу, а також математична теорія руху планет навколо нерухомої Землі, була актуальною<br />до 1543 року, коли польський астроном Микола Коперник запропонував альтернативну,<br />геліоцентричну систему. Тобто ця теорія панувала 1500 років.</p>
-</div>	
 <div class="fluidMedia">
-<iframe width="854" height="480" src="https://www.youtube.com/embed/1THnJoJyPDw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/1THnJoJyPDw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
