@@ -12,3 +12,10 @@
 </div>
 <div class="popup">
 </div>
+<p align="center">Табл. 2.3.1: Мандрiвки середньовiччя</p>
+<table>
+<tr>
+<td align="center" width="35%">Вiкiнги<br>
+(IX-XV ст.)</td>
+<td align="center" width="35%">Марко Поло<br>
+(1254-1324 рр.)</td>
