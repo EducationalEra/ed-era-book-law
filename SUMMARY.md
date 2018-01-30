@@ -2,15 +2,17 @@
 
 * [Зміст](README.md)
 * [Вступне слово](vstupne_slovo.md)
-* [Ознаки держави](1/oznaky_derjavy.md)
-   * [Територія](1/terytoria.md)
-   * [Публічна влада](1/publichna_vlada.md)
-   * [Суверенітет](1/suverenitet.md)
-   * [Грошово-кредитна система](1/groshovo-credytna_systema.md)
-   * [Податкова ситема](1/podatkova_systema.md)
-   * [Правові норми](1/pravovi_normy.md)
+* Розділ 1. Держава та її характеристики
+   * [Поняття держави та її ознаки](1/oznaky_derjavy.md)
+     * [Територія](1/terytoria.md)
+     * [Публічна влада](1/publichna_vlada.md)
+     * [Суверенітет](1/suverenitet.md)
+     * [Грошово-кредитна система](1/groshovo-credytna_systema.md)
+     * [Податкова ситема](1/podatkova_systema.md)
+     * [Правові норми](1/pravovi_normy.md)
+<!--   
 * [Сутність держави](sutnist_derjavy.md)
-* [Форма держави](2/forma_derjavy.md)
+[Форма держави](2/forma_derjavy.md)
    * [Державне правління](2/derjavne_pravlinnia.md)
    * [Територіальний устрій](2/terytorialnyj_ustrij.md)
    * [Політичний режим](2/politychnyj_rezhym.md)
@@ -31,7 +33,7 @@
    * [Ератосфен](InnaTest/Eratosfen.md)
    * [Амеріґо Веспуччі](InnaTest/Amerigo_Vespuchi.md) 
 
-< !-
+
 * [Основи вчення про державу та право](osnovi_vchennya_pro_derjavu_ta_pravo.md)
 * [Поняття держави та державної влади](chapter1.md)
    * [Держава](derzhava.md)
