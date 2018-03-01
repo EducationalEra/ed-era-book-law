@@ -1,10 +1,10 @@
 # Тестове завдання
-<div class="space">
-<p>У розділах Ви можете знайти тестове завдання. Приємного перегляду! Щастя, здоровля і з Різдвом!</p>
-</div>
-</div>
-<div class="space">
-<div class="center">	
-<img src="../pics/maxresdefault.jpg" width="480" height="281" class="center"/>
-</div>
-</div>
+
+$$\lvert f(x) \rvert \leqslant g(x) \iff 
+\left \{
+\begin{array}{ccc}
+    f(x) & \leqslant & g(x) \\
+    f(x) & \geqslant & -g(x) \\
+  \end{array}
+\right.
+\iff ... $$
